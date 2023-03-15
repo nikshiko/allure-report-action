@@ -25,6 +25,7 @@ Also, you need to do a checkout of `gh-pages` branch, even it doesn't exist yet.
 
 Default `gh-pages`
 
+
 ```yaml
 - name: Get Allure history
   uses: actions/checkout@v2
